@@ -1,0 +1,8 @@
+{
+    "exit": "sys.exit", # ['stop', 'exit', 'bye', 'quit', 'terminate', 'kill', 'end'],
+  "move": "navigate",
+  "open": "",
+  "enter": "setValue",
+  "get": "getDetails",
+  "locate": "locate",
+}
